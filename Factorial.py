@@ -1,10 +1,3 @@
-n=int(input("enter no:"))
-for i in range(n):
-    print(n)
-    i+=1
-# print(x)
-
-# Method 2
 def fact(n):
     if n==0:
         return 0
